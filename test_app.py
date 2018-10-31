@@ -5,7 +5,6 @@ import io
 import hashlib
 import json
 import shutil
-from builtins import bytes, str
 
 from app import app
 
